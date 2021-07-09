@@ -1,7 +1,11 @@
 # Airbus-Ship-Detection-with-MaskRCNN
 Using the famous Airbus Ship Detection dataset from the corresponding Kaggle Competition,
 trained a model with MaskRCNN from matterport to perform image segmentation for ship detection.
+## Info
+This repository is part of my senior thesis '*Alcyone* Object & Phenomenon Detection System'.
 
+### Saronic Gulf, Greece Agia Zoni II oil spill
+![](https://github.com/codelover96/Airbus-Ship-Detection-with-MaskRCNN/blob/main/results/2.png)
 ## Installation
 1. Clone Mask RCNN repository from Matterport
 2. Install it's dependencies
@@ -51,7 +55,8 @@ original Mask RCNN repo [here](https://github.com/matterport/Mask_RCNN)
 
 ### Requirements
 Python 3.4, TensorFlow 1.3, Keras 2.0.8 and other common packages listed in `requirements.txt`.
-###TODO
+
+### TODO
 -[x] added source files for running segmentation and object detection
 -[ ] add trained model files
 
@@ -60,4 +65,5 @@ Python 3.4, TensorFlow 1.3, Keras 2.0.8 and other common packages listed in `req
 * [Useful notebooks using Mask RCNN](https://github.com/abhinavsagar/kaggle-notebooks)
 * [Deep Learning for Ship Detection and Segmentation](https://towardsdatascience.com/deep-learning-for-ship-detection-and-segmentation-71d223aca649)
 
-~codelover96
+##### For educational purposes
+>~codelover96
