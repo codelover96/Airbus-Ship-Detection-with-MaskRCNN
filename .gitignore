@@ -12,6 +12,7 @@ Mask_RCNN-master/images/
 Mask_RCNN-master/mask_rcnn.egg-info/
 Mask_RCNN-master/mrcnn/
 Mask_RCNN-master/samples/
+Mask_RCNN-master/README.md
 Mask_RCNN-master/coco_obj_detection.py
 Mask_RCNN-master/elephant.jpg
 Mask_RCNN-master/mask_rcnn_coco.h5
