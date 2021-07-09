@@ -52,6 +52,8 @@ all available in one dataset.
 
 See examples in `samples/shapes/train_shapes.ipynb`, `samples/coco/coco.py`, `samples/balloon/balloon.py`, and `samples/nucleus/nucleus.py` of
 original Mask RCNN repo [here](https://github.com/matterport/Mask_RCNN)
+## My model
+My model trained on 2 epochs, on cpu. Just for testing purposes. No further tweaks were made. 
 
 ### Requirements
 Python 3.4, TensorFlow 1.3, Keras 2.0.8 and other common packages listed in `requirements.txt`.
@@ -59,6 +61,7 @@ Python 3.4, TensorFlow 1.3, Keras 2.0.8 and other common packages listed in `req
 ### TODO
 - [x] added source files for running segmentation and object detection
 - [ ] add trained model files
+- [ ] showcase results and model performance
 
 ### References
 * [Original Mask RCNN repo](https://github.com/matterport/Mask_RCNN)
