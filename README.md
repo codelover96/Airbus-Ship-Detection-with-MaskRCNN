@@ -57,13 +57,13 @@ original Mask RCNN repo [here](https://github.com/matterport/Mask_RCNN)
 Python 3.4, TensorFlow 1.3, Keras 2.0.8 and other common packages listed in `requirements.txt`.
 
 ### TODO
--[x] added source files for running segmentation and object detection
--[ ] add trained model files
+- [x] added source files for running segmentation and object detection
+- [ ] add trained model files
 
 ### References
 * [Original Mask RCNN repo](https://github.com/matterport/Mask_RCNN)
 * [Useful notebooks using Mask RCNN](https://github.com/abhinavsagar/kaggle-notebooks)
 * [Deep Learning for Ship Detection and Segmentation](https://towardsdatascience.com/deep-learning-for-ship-detection-and-segmentation-71d223aca649)
 
-##### For educational purposes
->~codelover96
+
+>For educational purposes, ~codelover96
